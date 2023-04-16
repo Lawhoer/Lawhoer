@@ -3,6 +3,7 @@
 
 <p>
 <img src="https://streak-stats.demolab.com?user=Lawhoer&theme=dracula">
+  
 <img src="https://github-readme-stats.vercel.app/api?username=Lawhoer&show_icons=true&theme=dracula">
 </p>
 
